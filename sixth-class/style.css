@@ -1,0 +1,27 @@
+a,
+h1 {
+  color: rgb(221, 2, 2);
+}
+
+a {
+  font-size: 30px;
+  text-decoration: none; /* to remove underline */
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+span{
+    font-weight: bold;
+    color: blue;
+}
+
+h2 span {
+    font-size: 24px;
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+.life {
+    font-size: 18px;
+    color: green;
+}
