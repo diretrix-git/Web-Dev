@@ -1,21 +1,7 @@
-body {
+* {
   font-family: Arial;
   background-color: white;
 }
-
-nav {
-  background-color: black;
-}
-
-nav a {
-  color: white;
-  text-decoration: none;
-}
-
-.box {
-  width: 60%;
-}
-
 h1 {
   font-size: 40px;
 }
@@ -29,12 +15,3 @@ span {
   text-decoration: underline;
 }
 
-.btn {
-  border: 2px solid blue;
-  color: blue;
-  text-decoration: none;
-}
-
-.logo {
-  width: 150px;
-}
